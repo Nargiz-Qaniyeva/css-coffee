@@ -1,0 +1,28 @@
+body{
+    background-color:black;
+}
+.card-wrapper{
+    width: 20%;
+    background-color: white;
+    margin-left: auto;
+    margin-right: auto;
+    border-width: 15px;
+    border-style: ridge 
+   
+}
+.card-wrapper .card-image img{
+    width: 100%;
+}
+.card-content{
+    padding: 15px;
+}
+.card-wrapper .card-content .date{
+    color: gray;
+}
+.card-wrapper .card-content .description{
+    color: gray;
+}
+.card-wrapper  .card-link .link{
+    color: gray;
+    text-decoration: none;
+}
